@@ -1,7 +1,6 @@
 package Practice
 
 import Practice.Spices.Curry
-import java.util.stream.Collectors
 
 
 fun main1(args: Array<String>) {
